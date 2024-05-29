@@ -8,7 +8,7 @@ I'm am a Product Lead with a passion for driving innovation and delivering impac
   - Spearheaded the development of AI-driven SaaS applications, achieving substantial growth in ARR.
   - Secured a grant from the EU Development Fund to support innovative projects.
 
-- **Head of Automation and Merketing Operations at Alio Inc.**
+- **Head of Automation and Marketing Operations at Alio Inc.**
   - Launch successful marketing products, resulting in a fourfold increase in demand.
   - Improved brand awareness and user engagement through strategic product marketing initiatives.
 
